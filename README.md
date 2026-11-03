@@ -1,2 +1,1 @@
-# Gobi
-GOBI - Social Network Platform
+manus/numpy-pcg64-seed-20261103
